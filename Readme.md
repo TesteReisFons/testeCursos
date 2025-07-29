@@ -8,3 +8,8 @@ Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 Gostou do curso? Quer mais ? Ajude com uma doação, ate um café é valido =)
 
 teste de doação****** */
+
+
+Teste da funcao Git stash que esconde uma alterção para depois se adicionando ou nao
+
+nova versao 1.0.1
